@@ -48,5 +48,105 @@
   "file": "photos/10_sticky_notes.jpg",
   "scene": "付箋を貼って整理しながら振り返る",
   "fits": "整理・分類・アイデア・置き場所とルール"
+ },
+ {
+  "file": "photos/11_warning_stop.jpg",
+  "scene": "パソコンの警告を見て手で止める（警戒）",
+  "fits": "セキュリティ・だまされない・注意・危ない"
+ },
+ {
+  "file": "photos/12_spreadsheet_frown.jpg",
+  "scene": "大きな表を見て眉をひそめる",
+  "fits": "スプレッドシート・表計算の限界・手作業がつらい"
+ },
+ {
+  "file": "photos/13_recording_meeting.jpg",
+  "scene": "打ち合わせでスマホの録音を始める",
+  "fits": "録音・議事録・メモ取り・商談"
+ },
+ {
+  "file": "photos/14_tabbed_book.jpg",
+  "scene": "付箋だらけの本をめくる",
+  "fits": "辞典・用語・調べもの・勉強"
+ },
+ {
+  "file": "photos/15_two_ai_chat.jpg",
+  "scene": "2台のパソコンの会話を腕組みで眺める",
+  "fits": "AI同士の会議・AIの比較・チャット"
+ },
+ {
+  "file": "photos/16_morning_walk.jpg",
+  "scene": "朝の街をコーヒー片手に歩く",
+  "fits": "朝・習慣・始める・気軽な話"
+ },
+ {
+  "file": "photos/17_cafe_laptop.jpg",
+  "scene": "カフェでパソコン作業",
+  "fits": "一人で進める・副業・コツコツ"
+ },
+ {
+  "file": "photos/18_presentation.jpg",
+  "scene": "大きな画面の前で発表する",
+  "fits": "発表・提案・社内に広める・説明"
+ },
+ {
+  "file": "photos/19_handshake_owner.jpg",
+  "scene": "中小企業の社長と握手",
+  "fits": "お客さん・社長・契約・紹介"
+ },
+ {
+  "file": "photos/20_roleplay_coach.jpg",
+  "scene": "若手とロープレの練習",
+  "fits": "営業の練習・ロープレ・研修・育成"
+ },
+ {
+  "file": "photos/21_stretch_done.jpg",
+  "scene": "仕事を終えて伸びをする夕方",
+  "fits": "楽になった・時短・終わった・成果"
+ },
+ {
+  "file": "photos/22_checklist.jpg",
+  "scene": "チェックリストに印を付ける",
+  "fits": "手順・確認・決めること・準備"
+ },
+ {
+  "file": "photos/23_messy_whiteboard.jpg",
+  "scene": "ごちゃごちゃのホワイトボードの前で腰に手",
+  "fits": "迷走・混乱・失敗・作り直し"
+ },
+ {
+  "file": "photos/24_code_surprised.jpg",
+  "scene": "プログラムの画面を見て驚く",
+  "fits": "コード・AIが作った・エンジニア脳"
+ },
+ {
+  "file": "photos/25_binders_shelf.jpg",
+  "scene": "ファイルを棚に整理する",
+  "fits": "整理・置き場所・保管・ルール"
+ },
+ {
+  "file": "photos/26_wall_calendar.jpg",
+  "scene": "壁のカレンダーで予定を組む",
+  "fits": "予定・週次・当番・スケジュール"
+ },
+ {
+  "file": "photos/27_thumbs_up.jpg",
+  "scene": "ニヤッと親指を立てる",
+  "fits": "おすすめ・結論・やってみた・うまくいった"
+ },
+ {
+  "file": "photos/28_workshop_visit.jpg",
+  "scene": "町工場を訪ねて話を聞く",
+  "fits": "現場・中小企業・ヒアリング・業務の見える化"
+ },
+ {
+  "file": "photos/29_train_phone.jpg",
+  "scene": "通勤電車でスマホを読む",
+  "fits": "通勤・すきま時間・通知を読む"
+ },
+ {
+  "file": "photos/30_night_office.jpg",
+  "scene": "夜のオフィスでパソコンに向かう",
+  "fits": "残業・追い込み・ひとりで踏ん張る"
  }
 ]
