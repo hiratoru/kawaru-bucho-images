@@ -1,0 +1,52 @@
+[
+ {
+  "file": "photos/01_laptop_think.jpg",
+  "scene": "パソコンを見ながら考える（あごに手）",
+  "fits": "考える・調べる・AIに聞く・ツールを作る"
+ },
+ {
+  "file": "photos/02_whiteboard_flow.jpg",
+  "scene": "ホワイトボードの流れ図を指して説明",
+  "fits": "仕組み・流れ・設計・青写真・段取り"
+ },
+ {
+  "file": "photos/03_tablet_smirk.jpg",
+  "scene": "タブレットを持ってニヤッとこちらを見る",
+  "fits": "道具・アプリ・紹介・まとめ"
+ },
+ {
+  "file": "photos/04_team_meeting.jpg",
+  "scene": "チームの打ち合わせで話す",
+  "fits": "チーム・会議・営業・研修・AI同士の会議"
+ },
+ {
+  "file": "photos/05_phone_good_news.jpg",
+  "scene": "スマホの知らせを見てガッツポーズ",
+  "fits": "通知・知らせ・自動化の成果・うれしい結果"
+ },
+ {
+  "file": "photos/06_notebook_coffee.jpg",
+  "scene": "コーヒーとノートで書き留める",
+  "fits": "記録・メモ・辞典・振り返り・学び"
+ },
+ {
+  "file": "photos/07_arms_crossed.jpg",
+  "scene": "腕組みで自信のある顔",
+  "fits": "決めたこと・守り方・心構え・言い切り"
+ },
+ {
+  "file": "photos/08_dashboard_check.jpg",
+  "scene": "モニターのグラフを確かめる",
+  "fits": "数字・費用・比較・モデル選び・分析"
+ },
+ {
+  "file": "photos/09_headset_call.jpg",
+  "scene": "ヘッドセットで電話",
+  "fits": "電話・お客さん対応・打ち合わせの録音・営業"
+ },
+ {
+  "file": "photos/10_sticky_notes.jpg",
+  "scene": "付箋を貼って整理しながら振り返る",
+  "fits": "整理・分類・アイデア・置き場所とルール"
+ }
+]
