@@ -1,0 +1,17 @@
+[
+ {
+  "file": "screens/01_slack_card.png",
+  "scene": "Slack の確認カード（OK・スキだけ・見送るのボタンの説明と、受け付けましたの返事）",
+  "fits": "確認してから出す・OK を押したものだけ・承認・人が最後に決める・コメント・交流"
+ },
+ {
+  "file": "screens/02_slack_system_notice.png",
+  "scene": "Slack の #システム に届いた失敗の知らせ（Notion の利用上限に当たり手順を飛ばした）",
+  "fits": "失敗・止まった・利用上限・エラーの知らせ・事件簿・見張る仕組み"
+ },
+ {
+  "file": "screens/03_scheduled_tasks.png",
+  "scene": "Claude の定期実行（スケジュール済みタスク）の一覧。名前と動く時刻が並ぶ",
+  "fits": "定期実行・自動化・毎日動く仕組み・時刻・任せる・仕組み化"
+ }
+]
