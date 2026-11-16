@@ -148,5 +148,23 @@
   "file": "photos/30_night_office.jpg",
   "scene": "夜のオフィスでパソコンに向かう",
   "fits": "残業・追い込み・ひとりで踏ん張る"
+ },
+ {
+  "file": "photos/31_ono_puzzled.jpg",
+  "scene": "小野（部下）がパソコンを見て、あごに手を当てて困る",
+  "fits": "AIがうまく使えない・つまずき・分からない・実務の困りごと",
+  "person": "小野"
+ },
+ {
+  "file": "photos/32_ono_delighted.jpg",
+  "scene": "小野（部下）がパソコンを見て、手を合わせて喜ぶ",
+  "fits": "できた・うまくいった・初めてのAI・小さな成功",
+  "person": "小野"
+ },
+ {
+  "file": "photos/33_ono_voice_input.jpg",
+  "scene": "小野（部下）が窓ぎわでスマホに音声入力で話しかける",
+  "fits": "音声入力・スマホで指示・メモ・手軽に始める",
+  "person": "小野"
  }
 ]
