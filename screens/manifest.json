@@ -13,5 +13,10 @@
   "file": "screens/03_scheduled_tasks.png",
   "scene": "Claude の定期実行（スケジュール済みタスク）の一覧。名前と動く時刻が並ぶ",
   "fits": "定期実行・自動化・毎日動く仕組み・時刻・任せる・仕組み化"
+ },
+ {
+  "file": "screens/04_notion_drafts_table.png",
+  "scene": "Notion の note 原案の表（題名・状態〔承認済み・投稿済み〕・読者が並ぶ）",
+  "fits": "原案・記事の管理・承認の流れ・Notion・表で管理・AI が書いて人が選ぶ・ネタの在庫"
  }
 ]
